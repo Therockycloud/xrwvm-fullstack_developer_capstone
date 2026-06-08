@@ -1,8 +1,8 @@
 # Repository name
-cars-dealership-capstone
+xrwvm-fullstack_developer_capstone
 
 # Project name
-Best Cars Dealership Application
+fullstack_developer_capstone
 
 This is an IBM full stack software developer capstone project. This is a website of a fake national car dealership that allows new and existing customers to look up different branches by state and look at customer reviews of the various branches. Customers should be able to create an account and add their review for any of the branches.
 
